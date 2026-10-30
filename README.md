@@ -1,4 +1,4 @@
-Hi there am Richard,
+Hi there I'm Richard👋,
 ### 🎓 Computer Science Student | ☁️ Aspiring Cloud Engineer
 
 Welcome to my GitHub profile! I am a passionate Computer Science student who is just starting out on my coding journey. I love solving problems, building software, and exploring how modern applications scale globally using cloud technologies.
