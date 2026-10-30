@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am a passionate Computer Science student who is 
 
 ### 📬 Connect With Me
 
-- 💼 **LinkedIn:** [link-to-your-profile]
+- 💼 **LinkedIn:** 
 - 📧 **Email:** richardmwai.dev@gmail.com
   
 
