@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I am a passionate Computer Science student who is 
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/richardmwai-dev
 - 📧 **Email:** richardmwai.dev@gmail.com
--     **x**https://x.com/richardisadev
+  
   
 
 ⚡ *Fun Fact: "There is no cloud, it's just someone else's computer!"*
