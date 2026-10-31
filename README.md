@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a passionate Computer Science student who is 
 ### 🛠️ Tech Stack & Tools
 
 #### 💻 Programming Languages
-- Python / c /c++
+- Python / c /c++/Java
 
 #### ☁️ Cloud & DevOps (Interests & Learning)
 - **Platforms:** AWS / Microsoft Azure / Google Cloud Platform
