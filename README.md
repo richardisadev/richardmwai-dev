@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I am a passionate Computer Science student who is 
 
 ### 🚀 About Me
 
-- 🏫 **Education:** Pursuing a B.S. in Computer Science at Jomo Kenyatta University of Agriculture and Technology
+- 🏫 **Education:** Pursuing a B.Sc. in Computer Science at Jomo Kenyatta University of Agriculture and Technology
 - 💡 **Interests:** Cloud Architecture, DevOps, Serverless Computing, and Backend Development
 - 🌱 **Learning Journey:** Currently mastering the fundamentals of Git/GitHub and diving into cloud ecosystems
 - 🎯 **Goal:** To build highly scalable, cloud-native applications and earn my first cloud certification
